@@ -96,9 +96,7 @@ exit(EXIT_SUCCESS);
 }
 ```
 
-## OUTPUT
+## OUTPUT:
 ![ex03-1](https://github.com/user-attachments/assets/66bdee3a-8dd6-418b-88b6-3c29d108b23d)
-
-
 # RESULT:
 The program is executed successfully.
